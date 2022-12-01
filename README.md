@@ -1,1 +1,1 @@
-# dotfiles
+# collection of fonts I enjoy
